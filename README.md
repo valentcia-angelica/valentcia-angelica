@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently studying at **Bina Nusantara University**
 
-- 🌱 I’m currently learning **Data analysis and visualization, React**
-
 <!---
 - 👯 I’m looking to collaborate on **djf**
 
